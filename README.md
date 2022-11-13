@@ -1,11 +1,10 @@
 <h1 align="center">Olá! Seja vem vindo! 👋</h1>
 
 <p align="right">
-Eu me chamo <strong>Juliano Machado</strong>, tenho 28 anos e sou de Aracaju/SE. Estou me formando em Ciências Sociais e estou em processo de transição para a carreira de Desenvolvimento Web.</p>
+Eu me chamo <strong>Juliano Machado</strong>, tenho 28 anos e sou de Aracaju/SE. Estou em processo de transição para a carreira de Desenvolvimento Web, com foco em <strong>back-end</strong>.</p>
 <p align="right">
-Atualmente meu foco está sendo em <strong>back-end</strong>, estudando para atuar no desenvolvimento de APIs.</p>
-
-<!-- <h2 align="center"><img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="hi-bear" width="50"> Um pouco mais sobre mim</h2> -->
+  Minhas principais tecnologias são <strong>JAVA</strong> e <strong>SPRING BOOT</strong>.
+  </p>
 
 <br>
 <h2 align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Circle-icons-tools.svg/512px-Circle-icons-tools.svg.png" alt="ferramentas" width="30"> Skills</h2>
