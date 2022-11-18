@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Seja vem vindo! 👋</h1>
 
 <p align="right">
-Eu me chamo <strong>Juliano Machado</strong>, tenho 28 anos e sou de Aracaju/SE. Estou em processo de transição para a carreira de Desenvolvimento Web, com foco em <strong>back-end</strong>.</p>
+Eu me chamo <strong>Juliano Machado</strong>, tenho 28 anos e sou de Aracaju/SE. Estou estudando Desenvolvimento Web, com foco em <strong>back-end</strong>.</p>
 <p align="right">
   Minhas principais tecnologias são <strong>JAVA</strong> e <strong>SPRING BOOT</strong>.
   </p>
