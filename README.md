@@ -27,8 +27,8 @@ Eu me chamo <strong>Juliano Machado</strong>, tenho 28 anos e sou de Aracaju/SE.
 
 <h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/893/893220.png" alt="chart" width="30"> Estatísticas</h3>
 <div align="center">
-  <img align="center" width="360em" src="https://github-readme-stats.vercel.app/api?username=julianomachadoo&layout=compact&theme=dark"/>
-  <img align="center" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomachadoo&layout=compact&theme=dark" />
+  <img align="center" width="360em" src="https://github-readme-stats.vercel.app/api?username=julianomachadoo&layout=compact&theme=onedark"/>
+  <img align="center" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomachadoo&layout=compact&theme=onedark"/>
 </div>
 
 <h2 align="center">🔗 Links </h2>
