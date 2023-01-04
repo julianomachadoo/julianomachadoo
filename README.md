@@ -25,12 +25,6 @@ Eu me chamo <strong>Juliano Machado</strong>, tenho 28 anos e sou de Aracaju/SE.
 </p>
 <br>
 
-< !-- <h2 align="center"><img src="https://cdn-icons-png.flaticon.com/512/893/893220.png" alt="chart" width="30"> Estatísticas</h3>
-<div align="center">
-  <img align="center" width="360em" src="https://github-readme-stats.vercel.app/api?username=julianomachadoo&theme=dark&show_icons=true"/>
-  <img align="center" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianomachadoo&theme=dark&show_icons=true"/>
-</div> -- >
-
 <h2 align="center">🔗 Links </h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/julianomachadoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
